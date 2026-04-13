@@ -314,6 +314,10 @@ a:hover {
 /* CONTACT */
 .contact-links {
     margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+    flex-wrap: wrap;
 }
 
 .contact-btn {
